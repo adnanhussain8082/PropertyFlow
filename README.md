@@ -473,10 +473,10 @@ Open your browser and go to: **http://localhost:5173**
 
 ## 📧 Contact & Submission
 
-**Submitted By:** [Your Name]  
-**Email:** [Your Email]  
-**GitHub:** [Your GitHub Profile]  
-**Repository:** [This Repository URL]
+**Submitted By:** Adnan Hussain  
+**Email:** adnanhussain8082@gmail.com  
+**GitHub:** https://github.com/adnanhussain8082  
+**Repository:** https://github.com/adnanhussain8082/PropertyFlow
 
 **Submission Date:** [Submission Date]
 
